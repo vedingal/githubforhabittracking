@@ -1,3 +1,12 @@
-Time,Category,Description,Comment
-1052,Activities,Woke up at 9AM without alarm,
-1120,Events,Palpitations, Weird
+Time,Category,Description,Value,Comment
+1052,Activities,Woke up at 9AM,TRUE, This is good cause I wanted to reset my body clock to wake up at 9AM
+1120,Events,Palpitations,NA,Weird
+1438, Habits, No doom scrolling boot up,TRUE,
+1438, Habits, Picked up poop,TRUE,
+1438, Habits, Ate oatmeal,TRUE,
+1438, Habits, Did pomodoros 45/15
+1438, Habits, Coffee,FALSE,
+1438, Habits, Bike,FALSE,
+1438, Habits, Yogo,FALSE,
+1438, Habits, Meds,FALSE,
+1438, Habits, Bath,FALSE,
